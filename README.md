@@ -4,4 +4,4 @@ DEPRECATED: New portfolio website repository: https://github.com/HZ757/portfolio
 
 The Portfolio Website of Henry Zhang
 
-This website is my old portfolio website
+This website is my old portfolio website, and also a redirection page for my google chrome extension
